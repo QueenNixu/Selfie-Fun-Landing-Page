@@ -1,0 +1,9 @@
+.cards__items {
+    margin: 10px;
+    list-style: none;
+    min-width: 400px;
+}
+
+.cards_item_text {
+    color: black;
+}
